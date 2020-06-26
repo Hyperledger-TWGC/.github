@@ -3,7 +3,9 @@
 
 ## Become TWGC developer[DRAFT]
 You could contact one of TWGC-coordinators and ask for an invitation. 
+
 You have to configure 2FA for your github account to accept invitation
+
 Please make your membership visiblity as `Public`, otherwise your membership is only visible within organization
 
 ## CONTRIBUTION 贡献须知
