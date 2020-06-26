@@ -2,9 +2,9 @@
 超级账本中国技术工作组 索引
 
 ## Become TWGC developer 如何加入该TWGC Github组织
-You could contact one of TWGC-coordinators and ask for an invitation. 
+You could contact one of [TWGC-coordinators](https://github.com/orgs/Hyperledger-TWGC/teams/twgc-coordinator) and ask for an invitation. 
 
-你可以联系任意一位TWGC-coordinators以获得邀请
+你可以联系任意一位[TWGC-coordinators](https://github.com/orgs/Hyperledger-TWGC/teams/twgc-coordinator)以获得邀请
 
 You have to configure 2FA for your github account to accept invitation
 
