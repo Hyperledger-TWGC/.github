@@ -1,4 +1,4 @@
-# TWGC-index
+# TWGC
 超级账本中国技术工作组 索引
 
 ## Become TWGC developer 如何加入该TWGC Github组织
