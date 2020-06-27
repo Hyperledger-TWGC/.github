@@ -9,7 +9,7 @@ You could contact one of [TWGC-coordinators](https://github.com/orgs/Hyperledger
 
 You have to configure 2FA for your github account to accept invitation
 
-在接受邀请之前，你的 Github 账户必须启用 2FA 验证。由于大陆地区无法接收 Github 短信，可以通过安装任意厂商提供的身份验证器来获取 OTP， 如 Google 身份验证器
+在接受邀请之前，你的 Github 账户必须启用 2FA 验证。由于大陆地区无法接收 Github 短信，可以通过安装任意厂商提供的身份验证器来获取 OTP
 
 Once after corordinator sending invitation, You will be receiving an email shortly. You can also visit https://github.com/Hyperledger-TWGC to accept the invitation.
 
@@ -18,6 +18,13 @@ Once after corordinator sending invitation, You will be receiving an email short
 Please make your membership visiblity as `Public`, otherwise your membership is only visible within organization
 
 请将你的成员身份可见性设置为 **公开**，否则组织之外的人员无法看到你属于 TWGC。
+
+### 身份验证器
+
+以下推荐列表由社区成员分享整理
+- chrome浏览器：网上应用店中的扩展程序 “身份验证器”
+- Android：Google 身份验证器
+- Firefox浏览器：插件 “authenticator”
 
 ## CONTRIBUTION 贡献须知
 
