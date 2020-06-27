@@ -11,6 +11,8 @@ You have to configure 2FA for your github account to accept invitation
 
 在接受邀请之前，你的 Github 账户必须启用 2FA 验证。由于大陆地区无法接收 Github 短信，可以通过安装任意厂商提供的身份验证器来获取 OTP
 
+*FIXME：现在 2FA 验证要求已暂时关闭，coordinators 会在适当的时候重新启用*
+
 Once after corordinator sending invitation, You will be receiving an email shortly. You can also visit https://github.com/Hyperledger-TWGC to accept the invitation.
 
 一旦 Coordinator 发出邀请，你将很快通过绑定Github账户的电子邮箱收到邀请邮件。你也可以通过访问 [本组织首页](https://github.com/Hyperledger-TWGC) 来接受邀请
