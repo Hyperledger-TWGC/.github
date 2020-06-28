@@ -3,9 +3,17 @@
 
 ## Become TWGC developer 如何加入 Github 组织
 
-You could contact one of [TWGC-coordinators](https://github.com/orgs/Hyperledger-TWGC/teams/twgc-coordinator) and ask for an invitation. 
+You could contact one of TWGC-coordinators and ask for an invitation. 
 
-你可以联系任意一位 [TWGC-coordinators](https://github.com/orgs/Hyperledger-TWGC/teams/twgc-coordinator)以获得邀请
+你可以联系以下任意一位 TWGC-coordinators 以获得邀请
+
+|  Name 名字   | Github ID  | Organization 所属组织 | Email 邮箱 | City 城市 | Rocketchat ID |
+| ------ | ---------  | ------  | ---- | ---- | ------------  | 
+| 郭剑南  | guoger | IBM | guojiannan1101@gmail.com | 北京 | guoger |
+| 宣章炯  | TopJohn |    | xzj19922010@gmail.com | 杭州 | TopJohn |
+| 刘宇翔 | davidkhala | Mediconcen | david-khala@hotmail.com | 香港 | davidkhala |
+
+
 
 You have to configure 2FA for your github account to accept invitation
 
