@@ -1,5 +1,8 @@
 # 超级账本中国技术工作组
+
 [README in English](./README_EN.md)
+
+超级账本中国技术工作组是连接超级账本全球社区，大中华贡献者社区和新兴技术用户的桥梁
 
 我们欢迎所有人来参与TWGC的社区
 
@@ -22,7 +25,8 @@
     | 刘宇翔 | davidkhala | Mediconcen | david-khala@hotmail.com | 香港 | davidkhala |
 
 1. 在接受邀请之前，你的 Github 账户必须启用 2FA 验证。由于大陆地区无法接收 Github 短信，可以通过安装任意厂商提供的身份验证器来获取 OTP
-1. 一旦 Coordinator 发出邀请，你将很快通过绑定Github账户的电子邮箱收到邀请邮件。你也可以通过访问 [本组织首页](https://github.com/Hyperledger-TWGC) 来接受邀请
+1. 一旦 Coordinator 发出邀请，你将很快通过绑定Github账户的电子邮箱收到邀请邮件。
+    1. 你也可以通过访问 [本组织首页](https://github.com/Hyperledger-TWGC) 来接受邀请
 1. 请将你的成员身份可见性设置为 **公开**，否则组织之外的人员无法看到你属于 TWGC。
 
 ### 身份验证器
