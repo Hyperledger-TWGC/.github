@@ -7,7 +7,7 @@ You could contact one of TWGC-coordinators and ask for an invitation.
 
 你可以联系以下任意一位 TWGC-coordinators 以获得邀请
 
-|  Name 名字   | Github ID  | Organization 所属组织 | Email 邮箱 | City 城市 | Rocketchat ID |
+|  名字   | Github ID  | 所属组织 | Email | 城市 | Rocketchat ID |
 | ------ | ---------  | ------  | ---- | ---- | ------------  | 
 | 郭剑南  | guoger | IBM | guojiannan1101@gmail.com | 北京 | guoger |
 | 宣章炯  | TopJohn |    | xzj19922010@gmail.com | 杭州 | TopJohn |
