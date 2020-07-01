@@ -15,7 +15,6 @@
 > 然而TWGC的工作范畴不仅限于此，因而不是所有的TWGC社区成员都需要加入 Github 组织
 
 
-
 1. 你可以联系以下任意一位 TWGC-coordinators 以获得邀请
 
     |  名字   | Github ID  | 所属组织 | Email | 城市 | Rocketchat ID |
@@ -23,6 +22,8 @@
     | 郭剑南  | guoger | IBM | guojiannan1101@gmail.com | 北京 | guoger |
     | 宣章炯  | TopJohn |    | xzj19922010@gmail.com | 杭州 | TopJohn |
     | 刘宇翔 | davidkhala | Mediconcen | david-khala@hotmail.com | 香港 | davidkhala |
+    
+    联系并申请后，只需要提供你的Github ID，coordinators 将会手动处理你的申请
 
 1. 在接受邀请之前，你的 Github 账户必须启用 2FA 验证。由于大陆地区无法接收 Github 短信，可以通过安装任意厂商提供的身份验证器来获取 OTP
 1. 一旦 Coordinator 发出邀请，你将很快通过绑定Github账户的电子邮箱收到邀请邮件。
