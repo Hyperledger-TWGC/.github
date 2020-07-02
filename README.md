@@ -8,6 +8,8 @@
 
 在开源社区的世界里，我们总是有很多未知亟待探索和实现
 
+[TWGC 正式 wiki](https://wiki.hyperledger.org/display/TWGC)
+
 ## 如何加入 Github 组织
 
 > **<面向开发>**  
