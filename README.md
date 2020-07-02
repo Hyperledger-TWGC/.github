@@ -15,7 +15,7 @@
 > 然而TWGC的工作范畴不仅限于此，因而不是所有的TWGC社区成员都需要加入 Github 组织
 
 
-1. 你可以联系以下任意一位 TWGC-coordinators 以获得邀请
+1. 你可以联系以下任意一位当值工作组组长 或者 其他TWGC-coordinators 以获得邀请
 
     |  名字   | Github ID  | 所属组织 | Email | 城市 | Rocketchat ID |
     | ------ | ---------  | ------  | ---- | ---- | ------------  | 
@@ -42,3 +42,4 @@
 - 当你创建新仓库后，记得要启动DCO bot
     - DCO bot 配置于 `Settings -> Branches -> Branch protection rules`
 - 每一个提交都需要签名以满足DCO校验
+- Hyperledger旗下的项目需要使用 Apache-2.0 及其兼容的许可证，关于许可证合规性，请联系 TWGC-coordinators
