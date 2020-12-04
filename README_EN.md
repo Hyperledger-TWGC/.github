@@ -1,7 +1,8 @@
 # Technical Working Group in China (TWGC) 
 
 The Technical Working Group China (TWG China, or TWGC) is a bridge between the global Hyperledger community, and the emerging technical user and contributor community in China and the greater China region, including Hong Kong and Taiwan.
-
+![Antitrustnotice](./Antitrustnotice.png)
+![inclusive](./inclusive.png)
 
 Every is welcomed to join TWGC community.   
 In open source, we always have a lot to do.   
