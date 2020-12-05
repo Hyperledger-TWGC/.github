@@ -23,10 +23,12 @@
 
     |  名字   | Github ID  | 所属组织 | Email | 城市 | Rocketchat ID |
     | ------ | ---------  | ------  | ---- | ---- | ------------  | 
-    | 郭剑南  | guoger | IBM | guojiannan1101@gmail.com | 北京 | guoger |
-    | 宣章炯  | TopJohn |    | xzj19922010@gmail.com | 杭州 | TopJohn |
-    | 刘宇翔 | davidkhala | Mediconcen | david-khala@hotmail.com | 香港 | davidkhala |
+    | 郭剑南 | guoger | 树根互联 | guojiannan1101@gmail.com | 北京 | guoger |
+    | 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | stone-ch |
+    | 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | davidkhala |
     
+    
+
     联系并申请后，只需要提供你的Github ID，coordinators 将会手动处理你的申请
 
 1. 在接受邀请之前，你的 Github 账户必须启用 2FA 验证。由于大陆地区无法接收 Github 短信，可以通过安装任意厂商提供的身份验证器来获取 OTP
