@@ -15,11 +15,11 @@ In open source, we always have a lot to do.
 1. You could contact one of TWGC-coordinators and ask for an invitation. 
 
 
-|  Name   | Github ID  | Organization | Email | City | Rocketchat ID |
-| ------ | ---------  | ------  | ---- | ---- | ------------  | 
-| Jay Guo | guoger | RootChain | guojiannan1101@gmail.com | Beijing | guoger |
-| Yang Cheng | stone-ch | CAICT | xzj19922010@gmail.com | Beijing | stone-ch |
-| David Liu | davidkhala | Oracle | david-khala@hotmail.com | Hongkong | davidkhala |
+    |  Name   | Github ID  | Organization | Email | City | Rocketchat ID |
+    | ------ | ---------  | ------  | ---- | ---- | ------------  | 
+    | Jay Guo | guoger | RootChain | guojiannan1101@gmail.com | Beijing | guoger |
+    | Yang Cheng | stone-ch | CAICT | xzj19922010@gmail.com | Beijing | stone-ch |
+    | David Liu | davidkhala | Oracle | david-khala@hotmail.com | Hongkong | davidkhala |
 
 
 1. You have to enable 2FA for your github account before accepting invitation
