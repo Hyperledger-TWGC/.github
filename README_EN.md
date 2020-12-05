@@ -17,10 +17,9 @@ In open source, we always have a lot to do.
 
 |  Name   | Github ID  | Organization | Email | City | Rocketchat ID |
 | ------ | ---------  | ------  | ---- | ---- | ------------  | 
-| 郭剑南  | guoger | IBM | guojiannan1101@gmail.com | 北京 | guoger |
-| 宣章炯  | TopJohn |    | xzj19922010@gmail.com | 杭州 | TopJohn |
-| 刘宇翔 | davidkhala | Mediconcen | david-khala@hotmail.com | 香港 | davidkhala |
-
+| Jay Guo | guoger | RootChain | guojiannan1101@gmail.com | Beijing | guoger |
+| Yang Cheng | stone-ch | CAICT | xzj19922010@gmail.com | Beijing | stone-ch |
+| David Liu | davidkhala | Oracle | david-khala@hotmail.com | Hongkong | davidkhala |
 
 
 1. You have to enable 2FA for your github account before accepting invitation
