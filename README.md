@@ -12,6 +12,28 @@
 
 [TWGC 正式 wiki](https://wiki.hyperledger.org/display/TWGC)
 
+## 常务组员 Active Members/Volunteers
+
+| 名字        | 所属组织   | Email  | 城市 | Hyperledger Rocketchat ID |
+| ------------ | ------------- | ----- | ----- | ----- |
+| Baojia Zhang 张保佳| 小米 | bjzhang1991@gmail.com | 北京 | |
+| Sam Yuan | IBM | yy19902439@126.com | 北京 | SamYuan1990 |
+| Xu Wu 吴旭 | 众享金联科技 | wuxu1103@163.com | Nanjing | xwu |
+
+如果您愿意持续为中国工作组社区做贡献，形式包括推动会议和计划，帮助入门开发者，组织活动推广超级账本技术，贡献源码，翻译文档，我们欢迎您在[mail list](mailto:twg-china@lists.hyperledger.org)中毛遂自荐，成为常务组员
+
+
+If you have made continuous contributions (3+ months) in TWGC , welcome to contact committee board get nominated as Active Member in the [mail list](mailto:twg-china@lists.hyperledger.org)
+
+
+Nomination email shouuld include recent evidences of contributions from nominee, appropriate evidence type include but not limited to:
+    - Propose, join collaborative plan/work under Hyperledger
+    - helping new developers
+    - organizing events
+    - promoting Hyperledger technologies
+    - contributing code, documentations or translation work
+    - Actively participate in TWGC bi-weekly meeting
+
 ## 如何加入 Github 组织
 
 > **<面向开发>**  
@@ -21,7 +43,7 @@
 
 1. 你可以联系以下任意一位当值工作组组长 或者 其他TWGC-coordinators 以获得邀请
 
-    |  名字   | Github ID  | 所属组织 | Email | 城市 | Rocketchat ID |
+    |  名字   | Github ID  | 所属组织 | Email | 城市 | Hyperledger Rocketchat ID |
     | ------ | ---------  | ------  | ---- | ---- | ------------  | 
     | 郭剑南 | guoger | 树根互联 | guojiannan1101@gmail.com | 北京 | guoger |
     | 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | stone-ch |
