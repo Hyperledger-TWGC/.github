@@ -14,11 +14,12 @@
 
 ## 常务组员 Active Members/Volunteers
 
-| 名字        | 所属组织   | Email  | 城市 | Hyperledger Rocketchat ID |
-| ------------ | ------------- | ----- | ----- | ----- |
-| Baojia Zhang 张保佳| 小米 | bjzhang1991@gmail.com | 北京 | |
-| Sam Yuan | IBM | yy19902439@126.com | 北京 | SamYuan1990 |
-| Xu Wu 吴旭 | 众享金联科技 | wuxu1103@163.com | Nanjing | xwu |
+| 名字        | Github ID| 所属组织   | Email  | 城市 | Hyperledger Rocketchat ID |
+| ------------ | ----- | ------------- | ----- | ----- | ----- |
+| Baojia Zhang 张保佳 | | 小米 | bjzhang1991@gmail.com | 北京 | |
+| Sam Yuan | | IBM | yy19902439@126.com | 北京 | SamYuan1990 |
+| Xu Wu 吴旭 | hellosmallstone | 众享金联科技 | wuxu1103@163.com | Nanjing | xwu |
+
 
 如果您愿意持续为中国工作组社区做贡献，形式包括推动会议和计划，帮助入门开发者，组织活动推广超级账本技术，贡献源码，翻译文档，我们欢迎您在[mail list](mailto:twg-china@lists.hyperledger.org)中毛遂自荐，成为常务组员
 
