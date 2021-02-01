@@ -38,11 +38,11 @@ If you have made continuous contributions (3+ months) in TWGC , welcome to conta
 
 ## 工作组组长
 
-    |  名字   | Github ID  | 所属组织 | Email | 城市 | Hyperledger Rocketchat ID |
-    | ------ | ---------  | ------  | ---- | ---- | ------------  | 
-    | 郭剑南 | guoger | 树根互联 | guojiannan1101@gmail.com | 北京 | guoger |
-    | 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | stone-ch |
-    | 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | davidkhala |
+|  名字   | Github ID  | 所属组织 | Email | 城市 | Hyperledger Rocketchat ID |
+| ------ | ---------  | ------  | ---- | ---- | ------------  | 
+| 郭剑南 | guoger | 树根互联 | guojiannan1101@gmail.com | 北京 | guoger |
+| 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | stone-ch |
+| 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | davidkhala |
 ## 如何加入 Github 组织
 
 > **<面向开发>**  
