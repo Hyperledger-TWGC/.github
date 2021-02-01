@@ -25,10 +25,10 @@
 如果您愿意持续为中国工作组社区做贡献，形式包括推动会议和计划，帮助入门开发者，组织活动推广超级账本技术，贡献源码，翻译文档，我们欢迎您在[邮件列表](mailto:twg-china@lists.hyperledger.org)中毛遂自荐，成为常务组员
 
 如果你已经持续地为TWGC做出贡献（超过3个月），欢迎联系工作组组长，以在[邮件列表](mailto:twg-china@lists.hyperledger.org)中获得提名
+
 If you have made continuous contributions (3+ months) in TWGC , welcome to contact committee board get nominated as Active Member in the [mail list](mailto:twg-china@lists.hyperledger.org)
 
-提名邮件应包括受提名人最近贡献的证据记录，贡献类型包括：
-Nomination email shouuld include recent evidences of contributions from nominee, appropriate contribution evidence type include but not limited to:
+提名邮件应包括受提名人最近贡献的证据记录，贡献类型包括但不限于：
 - 发起或者加入超级账本旗下的协作计划、项目 Propose, join collaborative plan/work under Hyperledger
 - 帮助新的开发者 helping new developers
 - 组织活动 organizing events
