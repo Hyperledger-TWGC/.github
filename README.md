@@ -21,7 +21,7 @@
 | Xu Wu 吴旭 | hellosmallstone | 众享金联科技 | wuxu1103@163.com |  xwu |
 | 许强 | XuHugo | 新华三 | xq-410@163.com | |
 
-
+## 常务组员提名 Active Members/Volunteers Nomination
 如果您愿意持续为中国工作组社区做贡献，形式包括推动会议和计划，帮助入门开发者，组织活动推广超级账本技术，贡献源码，翻译文档，我们欢迎您在[邮件列表](mailto:twg-china@lists.hyperledger.org)中毛遂自荐，成为常务组员
 
 如果你已经持续地为TWGC做出贡献（超过3个月），欢迎联系工作组组长，以在[邮件列表](mailto:twg-china@lists.hyperledger.org)中获得提名
@@ -35,6 +35,10 @@ If you have made continuous contributions (3+ months) in TWGC , welcome to conta
 - 推广超级账本技术 promoting Hyperledger technologies
 - 贡献代码，文档或翻译工作 contributing code, documentations or translation work
 - 积极参加TWGC双周会讨论Actively participate in TWGC bi-weekly meeting
+
+如果常务组员不活跃状态连续超过三个月，TWGC会考虑实施组员退休。退休的组员可以重新通过提名流程成为常务组员。
+
+If keeping inactive for 3+ months (e.g., not show up in meetings/events), will consider to retire. It is possible to become active again via the nomination process.
 
 ## 工作组组长
 
