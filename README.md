@@ -67,11 +67,5 @@ If keeping inactive for 3+ months (e.g., not show up in meetings/events), will c
 - Android/ios：Google 身份验证器
 - Firefox浏览器：插件 “authenticator”
 
-## 贡献须知
+## [项目贡献，孵化，进驻](https://github.com/Hyperledger-TWGC/TWGC-Project-Incubator)
 
-- 当你创建新仓库后，记得要启动DCO bot
-    - DCO bot 配置于 `Settings -> Branches -> Branch protection rules`
-- 每一个提交都需要签名以满足DCO校验
-- Hyperledger旗下的项目需要使用 Apache-2.0 及其兼容的许可证，关于许可证合规性，请联系 **工作组组长**
-- [Azure项目空间](https://dev.azure.com/Hyperledger/TWGC)
-    - 一个Azure项目可以容纳多个Pipelines，目前TWGC的项目可以共用这个空间
