@@ -16,7 +16,6 @@
 
 | 名字        | Github ID| 所属组织   | Email  |  Hyperledger Rocketchat ID |
 | ------------ | ----- | ------------- | ----- | ----- |
-| Baojia Zhang 张保佳 | | 小米 | bjzhang1991@gmail.com | |
 | Sam Yuan | SamYuan1990 | IBM | yy19902439@126.com |  SamYuan1990 |
 | Xu Wu 吴旭 | hellosmallstone | 众享金联科技 | wuxu1103@163.com |  xwu |
 | 许强 | XuHugo | 新华三 | xu.qiang@h3c.com | |
