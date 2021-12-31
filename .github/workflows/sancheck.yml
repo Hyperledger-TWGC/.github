@@ -1,0 +1,19 @@
+name: Github Workflow Sancheck
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  ghcr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test Github action
+        run: echo TWGC
+      - name: Log in to the Container registry
+        uses: docker/login-action@master
+        with:
+          registry: ghcr.io
+          username: davidkhala
+          password: ${{ secrets.TWGC_DAVIDKHALA }}
+      
