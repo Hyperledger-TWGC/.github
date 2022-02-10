@@ -14,12 +14,13 @@
 
 ## 常务组员 Active Members/Volunteers
 
-| 名字        | Github ID| 所属组织   | Email  |  Hyperledger Rocketchat ID |
-| ------------ | ----- | ------------- | ----- | ----- |
-| Sam Yuan | SamYuan1990 | IBM | yy19902439@126.com |  SamYuan1990 |
-| Xu Wu 吴旭 | hellosmallstone | 众享金联科技 | wuxu1103@163.com |  xwu |
-| 许强 | XuHugo | 新华三 | xu.qiang@h3c.com | |
-| 吴乔民 | wuqiaomin | 华为 | wuqiaomin2@huawei.com | |
+| 名字        | Github ID| 所属组织   | Email  |  
+| ------------ | ----- | ------------- | ----- |
+| 郭剑南 | guoger | 树根互联 | guojiannan1101@gmail.com |
+| Sam Yuan | SamYuan1990 | IBM | yy19902439@126.com |
+| Xu Wu 吴旭 | hellosmallstone | 众享金联科技 | wuxu1103@163.com |
+| 许强 | XuHugo | 新华三 | xu.qiang@h3c.com | 
+| 吴乔民 | wuqiaomin |  | wuqiaomin2@huawei.com |
 
 ## 常务组员提名 Active Members/Volunteers Nomination
 如果您愿意持续为中国工作组社区做贡献，形式包括推动会议和计划，帮助入门开发者，组织活动推广超级账本技术，贡献源码，翻译文档，我们欢迎您在[邮件列表](mailto:twg-china@lists.hyperledger.org)中毛遂自荐，成为常务组员
@@ -42,11 +43,11 @@ If keeping inactive for 3+ months (e.g., not show up in meetings/events), will c
 
 ## 工作组组长
 
-|  名字   | Github ID  | 所属组织 | Email | 城市 | Hyperledger Rocketchat ID |
-| ------ | ---------  | ------  | ---- | ---- | ------------  | 
-| 郭剑南 | guoger | 树根互联 | guojiannan1101@gmail.com | 北京 | guoger |
-| 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | stone-ch |
-| 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | davidkhala |
+|  名字   | Github ID  | 所属组织 | Email | 城市 | 
+| ------ | ---------  | ------  | ---- | ---- | 
+| 袁怿 | SamYuan1990 | IBM | yy19902439@126.com | 北京 |
+| 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | 
+| 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | 
 ## 如何加入 Github 组织
 
 > **<面向开发>**  
