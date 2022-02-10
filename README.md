@@ -43,11 +43,11 @@ If keeping inactive for 3+ months (e.g., not show up in meetings/events), will c
 
 ## 工作组组长
 
-|  名字   | Github ID  | 所属组织 | Email | 城市 | 
-| ------ | ---------  | ------  | ---- | ---- | 
-| 袁怿 | SamYuan1990 | IBM | yy19902439@126.com | 北京 |
-| 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | 
-| 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | 
+|  名字   | Github ID  | 所属组织 | Email | 城市 | 微信号 |
+| ------ | ---------  | ------  | ---- | ---- | ----- |
+| 袁怿 | SamYuan1990 | IBM | yy19902439@126.com | 北京 | oe19901019 |
+| 程阳 | stone-ch | 中国信通院 | chengyang418@163.com | 北京 | yycheng418 |
+| 刘宇翔 | davidkhala | 甲骨文 | david-khala@hotmail.com | 香港 | davidkhala |
 ## 如何加入 Github 组织
 
 > **<面向开发>**  
