@@ -8,8 +8,6 @@ jobs:
   ghcr:
     runs-on: ubuntu-latest
     steps:
-      - name: test Github action
-        run: echo TWGC
       - name: Log in to the Container registry
         uses: docker/login-action@master
         with:
