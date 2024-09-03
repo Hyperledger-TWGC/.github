@@ -4,8 +4,8 @@
 
 超级账本中国技术工作组是连接超级账本全球社区，大中华贡献者社区和新兴技术用户的桥梁
 
-![Antitrustnotice](./profile/Antitrustnotice.png)
-![inclusive](./profile/inclusive.png)
+![Antitrustnotice](./Antitrustnotice.png)
+![inclusive](./inclusive.png)
 我们欢迎所有人来参与TWGC的社区
 
 在开源社区的世界里，我们总是有很多未知亟待探索和实现
